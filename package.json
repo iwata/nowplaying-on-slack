@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "forever": "^0.15.3",
-    "request": "^2.81.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "eslint": "^4.5.0",
